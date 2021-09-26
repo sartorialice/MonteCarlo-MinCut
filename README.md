@@ -1,5 +1,5 @@
 # MonteCarlo-MinCut
-This program evaluates the probability of obtaining the Min Cut on the Fritsch graph by using a randomized Monte Carlo algorithm on $10^5$ run.
+This program evaluates the probability of obtaining the Min Cut on the Fritsch graph by using a randomized Monte Carlo algorithm on 10^5 run.
 
 Implemented by Alice Sartori: https://github.com/sartorialice
 
